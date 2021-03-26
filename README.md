@@ -1,16 +1,6 @@
-# delimeals_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Meals_App
+In this project (Meals App) we have a look at :
+  1- What "Navigation" and "Screen" Are?
+  2- Pushing & Popping Pages
+  3- Tabs & Drawers
+  4- Passing Data Between Screens
